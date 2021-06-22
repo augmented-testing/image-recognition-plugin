@@ -1,0 +1,24 @@
+JMScout (ImageRecognition.java)
+Copyright 2021 Joel Amundberg and Martin Moberg 
+Licensed under Apache 2.0
+
+----
+
+JNativeHook
+Copyright 2021 https://github.com/kwhat/jnativehook 
+
+Licensed under GPL or LGPL
+
+----
+
+Apache Commons Lang
+Copyright 2001-2021 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (https://www.apache.org/).
+
+----
+
+Eye
+Copyright 2021 Synteda AB
+Available at https://store.synteda.se/eu/product/eye-for-researchers-and-students/
